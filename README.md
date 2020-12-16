@@ -26,6 +26,6 @@ A Repository Maintaining My Solutions And Additional Resources For The Course- A
 
 # 🎓 Certificate
 
-<a href="">Click To View Certificate PDF</a>
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/blob/main/assets/AWS%20Gluon%20CV.pdf">Click To View Certificate PDF</a>
 
-![certificate]()
+![certificate](https://github.com/aryashah2k/AWS-GluonCV-Coursera/blob/main/assets/Certificate%20Image.png)
