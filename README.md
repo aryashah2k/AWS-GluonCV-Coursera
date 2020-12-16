@@ -8,17 +8,17 @@ A Repository Maintaining My Solutions And Additional Resources For The Course- A
 
 ## 📖 Table Of Contents
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%201">Week 1</a> : Computer Vision Overview
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%201">Week 1</a> : Introduction To Computer Vision
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%202">Week 2</a> : Colour, Light, Image Formation
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%202">Week 2</a> : Machine Learning On AWS
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%203">Week 3</a> : Low, Mid, High Level Vision
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%203">Week 3</a> : Using GluonCV Models
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%204">Week 4</a> : Mathematics For Computer Vision
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%204">Week 4</a> : Gluon Fundamentals
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%205">Week 5</a> : Mathematics For Computer Vision
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week%205">Week 5</a> : Gluon Fundamentals Continued
 
-<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week-6">Week 6</a> : Mathematics For Computer Vision
+<a href="https://github.com/aryashah2k/AWS-GluonCV-Coursera/tree/main/Week-6">Week 6</a> : Final Project
 
 ## 📖 Resources
 
